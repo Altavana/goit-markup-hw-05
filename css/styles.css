@@ -632,8 +632,10 @@ margin-bottom: 16px;
 }
 .contacts-form-fields-wrapper {
     margin-bottom: 8px; 
- 
-}
+ }
+ .contacts-form-comment-wrapper {
+    margin-bottom: 16px;
+ }
 .contacts-form-input-wrapper {
     position: relative;
 }
@@ -664,6 +666,8 @@ margin-bottom: 16px;
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     outline: transparent; 
 }
+
+
 .contacts-form-comment:focus {
     border-color: #4d5ae5;
     outline: transparent;
