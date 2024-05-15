@@ -652,6 +652,7 @@ margin-bottom: 16px;
     fill: #4d5ae5;
 }
 .contacts-form-comment {
+    display: block;
     font-size: 12px;
     line-height: 1.17;
     letter-spacing: 0.04em; 
